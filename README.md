@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on Android app development, making 
 - 📫 How to reach me- parthapratimmahanta3@gmail.com
-- 😄 Pronouns: h/him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: i know animation 
 
 <!---
