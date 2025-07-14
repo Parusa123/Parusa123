@@ -1,6 +1,7 @@
 import Java.util.Scanner;
 
-class my class{
+class myClass{
+
    public static void main(String[]arg){
  
      Scanner myobj=new Scanner(System.in);
