@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Parusa123
-- 👀 I’m interested in java
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on Android app development, making 
-- 📫 How to reach me- parthapratimmahanta3@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i know animation 
+import Java.util.Scanner;
 
-<!---
-Parusa123/Parusa123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+class my class{
+   public static void main(String[]arg){
+ 
+     Scanner myobj=new Scanner(System.in);
+
+    System.out.println("Enter your username");
+
+String username= myobj.nextline();
+//nextline method is used since it reads the whole line completely 
+
+System.out.println("username is:"+username);
+}
+}
