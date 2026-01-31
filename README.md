@@ -1,3 +1,8 @@
+<!-- Anime Header -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
+</p>
+
 <h1 align="center">Hey 👋, I'm Partha Pratim Mahanta</h1>
 <h3 align="center">Aspiring Full Stack Developer | CSE Student</h3>
 
@@ -13,7 +18,7 @@
 - 🌱 Aspiring **Full Stack Developer**
 - 🧹 Building **Seiketsu** – a civic-tech cleanliness web app  
 - 💡 Learning by building real, usable projects  
-- 🇯🇵 Inspired by simplicity, consistency, and clean system design  
+- 🇯🇵 Inspired by Japanese principles of simplicity & discipline  
 
 ---
 
@@ -23,7 +28,7 @@
 - Backend development using Node.js & MongoDB  
 - Writing clean REST APIs with Express.js  
 - Strengthening fundamentals using Java, C, and C++  
-- Improving system design and project structure  
+- Improving system design and documentation  
 
 ---
 
@@ -74,5 +79,5 @@
 ---
 
 <p align="center">
-  <i>"Learning by building. Improving one project at a time."</i>
+  <i>“Learning by building. Improving one project at a time.”</i>
 </p>
