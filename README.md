@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Partha+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;CSE+Student+%7C+Builder+%7C+Learner;Creating+tools+that+solve+real+problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Partha+%F0%9F%91%8B;Full+Stack+Dev+%7C+AI%2FML+Explorer;Building+smart+apps+with+AI;Turning+ideas+into+intelligent+tools+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,15 +27,15 @@
 name: Partha Pratim Mahanta
 location: Assam, India 🇮🇳
 education: B.Tech in Computer Science Engineering
-role: Aspiring Full Stack Developer
-current_project: Seiketsu – a civic-tech cleanliness web app
+role: Full Stack Developer | AI/ML Explorer
+interests: [Machine Learning, LLMs, AI-powered Apps, Computer Vision]
 philosophy: "Learning by building. Improving one project at a time."
 inspired_by: Japanese principles of simplicity & discipline 🇯🇵
 ```
 
-- 🎓 **B.Tech CSE student** passionate about solving real-world problems through code
-- 🌱 Currently growing into a **Full Stack Developer**
-- 🧹 Building **Seiketsu** — a civic-tech web app promoting community cleanliness
+- 🎓 **B.Tech CSE student** passionate about building intelligent, real-world solutions
+- 🤖 Exploring **Machine Learning, LLMs, and AI-integrated applications**
+- 🌐 Full Stack Developer integrating **AI/ML models into web apps**
 - 💡 I learn best by building projects that are **actually usable**
 - ⚡ Fan of clean code, minimalistic design, and systems that just *work*
 
@@ -43,12 +43,13 @@ inspired_by: Japanese principles of simplicity & discipline 🇯🇵
 
 ## 🚀 What I'm Currently Working On
 
-| Project | Stack | Status |
+| Area | What I'm Learning/Building | Status |
 |---|---|---|
-| 🧹 **Seiketsu** – Civic cleanliness app | Next.js, Node.js, MongoDB | 🔨 In Progress |
-| 🌐 **CommuniHub** – Community platform | Node.js, Express, MongoDB | 🔨 In Progress |
-| 📚 Strengthening DSA fundamentals | Java, C, C++ | 📖 Ongoing |
-| 🔌 REST API design & best practices | Express.js | 📖 Ongoing |
+| 🤖 **Machine Learning** | Supervised & Unsupervised models with scikit-learn | 📖 Learning |
+| 🧠 **LLM Integration** | Building apps powered by OpenAI / Gemini APIs | 🔨 Exploring |
+| 👁️ **Computer Vision** | Image recognition with TensorFlow & OpenCV | 📖 Learning |
+| 🌐 **AI-Powered Web Apps** | Embedding ML models into Full Stack projects | 🔨 Building |
+| 🔌 **REST APIs** | Clean API design with Express.js + Node.js | ✅ Improving |
 
 ---
 
@@ -56,7 +57,15 @@ inspired_by: Japanese principles of simplicity & discipline 🇯🇵
 
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
+</p>
+
+### 🤖 AI / ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
 ### 🌐 Frontend
@@ -91,13 +100,21 @@ inspired_by: Japanese principles of simplicity & discipline 🇯🇵
 
 ## 🌟 Featured Projects
 
-### 🧹 [Seiketsu](https://github.com/ParthaPratimMahanta79/seiketsu)
-> A civic-tech web application focused on community cleanliness and hygiene reporting.
-> Built with Next.js, Node.js, and MongoDB.
+### 🤖 AI Chatbot with LLM Integration
+> A smart chatbot powered by OpenAI/Gemini API, integrated into a full-stack web app.
+> Stack: Next.js, Node.js, OpenAI API, MongoDB
+
+### 👁️ Image Classifier Web App
+> Upload an image and let a trained ML model classify it in real time via a REST API.
+> Stack: Python, TensorFlow/Keras, Flask, React
+
+### 📊 Sentiment Analyzer
+> Analyze text sentiment using NLP models — useful for reviews, feedback, and social media.
+> Stack: Python, HuggingFace Transformers, Express.js
 
 ### 🌐 [CommuniHub](https://github.com/ParthaPratimMahanta79/CommuniHub)
 > A community platform for connecting and collaborating.
-> Built with Node.js, Express, and MongoDB.
+> Stack: Node.js, Express, MongoDB
 
 ---
 
